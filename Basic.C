@@ -1,6 +1,6 @@
 #include <stdio.h>
 
-int main() {
+void main() {
     int a, b, c; //Initialising the data type to the variables
     for(a = 1; a <= 3; a++){
         for(b = 1; b <= 3; b++){
@@ -11,7 +11,7 @@ int main() {
             }
         }
     }
-    return 0;
+   
 }
 
 
